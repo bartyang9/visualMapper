@@ -1,0 +1,2 @@
+mapper:semantic_label_publisher:yolo_publisher
+-DCATKIN_DEVEL_PREFIX=/home/bart/ros_map/devel -DCMAKE_INSTALL_PREFIX=/home/bart/ros_map/install -G Unix Makefiles

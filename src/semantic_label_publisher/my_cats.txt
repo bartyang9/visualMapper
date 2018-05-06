@@ -1,0 +1,10 @@
+#label_name label_id label_color(R,G,B)
+corridor 54 178,223,138
+classroom 44 51,160,44
+lecture_room 44 227,26,28
+lobby 113 253,191,111
+office 129 255,127,0
+reception 150 202,178,2014
+conference_room 51 106,61,154
+fire_escape 75 255,255,153
+garbage_dump 86 251,154,153

@@ -1,0 +1,8 @@
+prefix=/home/bart/ros_map/devel
+
+Name: yolo_publisher
+Description: Description of yolo_publisher
+Version: 0.0.0
+Cflags: -I/home/bart/ros_map/devel/include
+Libs: -L/home/bart/ros_map/devel/lib 
+Requires: rospy std_msgs
